@@ -7,5 +7,5 @@ An text to image a using dalle model.
 
 # Technologies
  - Dalle-E-Model
- - Node Js
+ - MERN Stack
  - Cloudinary
