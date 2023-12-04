@@ -2,12 +2,12 @@
 An text to image a using dalle model.
 # Instructions To run 
   - Download the code form Github repository
-     Repositories to install
-       In Client 
+     # Repositories to install
+     #  In Client 
       - Vite -> Npm create vite@latest ./ 
       - Tailwind css -> npm install -D tailwindcss
                         npx tailwindcss init
-       In Server 
+      # In Server 
       - Cloudinary -> npm install cloudinary
       - express   ->npm install express
       - mongoose -> npm install mongoose
