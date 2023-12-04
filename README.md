@@ -1,5 +1,5 @@
 # Text-to-image
-An text to image a using dalle model.
+An text to image a using dall e model.
 # Instructions To run 
   - Download the code form Github repository
      # Repositories to install
