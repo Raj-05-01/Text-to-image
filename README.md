@@ -1,5 +1,5 @@
 # Text-to-image
-An text to image a using dall e model.
+An text to image converting tool in which user entering prompt can generate an image the tool uses dall e model to work.
 # Instructions To run 
   - Download the code form Github repository
   ## Repositories to install
