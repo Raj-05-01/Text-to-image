@@ -22,7 +22,7 @@ An text to image converting tool in which user can enter text from prompt and th
 3. Finally, npm run dev to start the client/server app.
         
 # Video Tutorial
-
+https://drive.google.com/file/d/1WVFBL3KoEFhX9U0Pea8emhOAqyICAU6C/view?usp=drive_link
 
 # Technologies
  - Dalle-E-Model
